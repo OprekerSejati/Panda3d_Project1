@@ -19,7 +19,7 @@ A modular 3D **AI swarm simulation** built with [Panda3D](https://www.panda3d.or
 
 ```bash
 git clone https://github.com/OprekerSejati/Panda3d_Project1.git
-cd ai-swarm-simulation
+cd Panda3d_Project1
 pip install panda3d
 python main.py
 ```
